@@ -1,0 +1,232 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p_m",
+				"p_mypr_max"
+			],
+			[
+				"p_vp_m",
+				"p_vp_max"
+			],
+			[
+				"so",
+				"socket"
+			],
+			[
+				"info",
+				"info_window"
+			],
+			[
+				"in",
+				"is_shown"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"question_re",
+				"question_replys_count"
+			],
+			[
+				"inter",
+				"interst_reply"
+			],
+			[
+				"find",
+				"find_limit"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 337.0,
+		"selected_items":
+		[
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: Close All"
+			],
+			[
+				"Pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jianhuashao/github/KeyValue/code/package.json",
+		"/Users/jianhuashao/github/YouShire/code/user_bot.js",
+		"/Users/jianhuashao/github/YouShire/code/routes/index.js",
+		"/Users/jianhuashao/github/YouShire/code/views/layout_sio",
+		"/Users/jianhuashao/github/YouShire/code/views/layout.jade",
+		"/Users/jianhuashao/github/YouShire/code/views/observer_question.jade",
+		"/Users/jianhuashao/github/YouShire/code/sublime2_project/bot_test.sublime-project",
+		"/Users/jianhuashao/github/YouShire/code/bot copy.js",
+		"/Users/jianhuashao/Dropbox/Apps/scriptogram/google_app_engine/app.yaml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"myutil",
+			"dest",
+			"objectid",
+			"new objectid",
+			"authenticate_local",
+			"question_create",
+			"sio_question_view",
+			"data",
+			"error",
+			"console",
+			"mylat",
+			"warm",
+			"debug",
+			"latlng",
+			"){",
+			"('');\n",
+			"request_function",
+			"function",
+			"(\n",
+			"msg",
+			"debug",
+			"function",
+			"mcnihaoonihaoyhonihaost",
+			"120",
+			"mcnihaooynihaolatnihao",
+			"function",
+			"method"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"/user/jianhuashao/github/youshire/code/bot.js",
+				"/Users/jianhuashao/github/YouShire/code/bot copy.js"
+			],
+			[
+				"bot.js",
+				"/Users/jianhuashao/github/YouShire/code/bot copy.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 139.0,
+	"status_bar_visible": true
+}

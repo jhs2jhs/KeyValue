@@ -1,0 +1,22 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.3.4",
+    "jade": "*",
+    "mongodb": "*",
+    "socket.io": "*",
+    "request": "*",
+    "colors": "*",
+    "passport": "*",
+    "passport-local": "*",
+    "connect-ensure-login": "*",
+    "connect-mongo": "*",
+    "superagent": "*",
+    "tracer": "*"
+  }
+}
